@@ -19,7 +19,9 @@ THEN I find a concise, descriptive title
 ```
 ## Screenshot
 
-![Alt text](/Challenge1/Challenge1%20Screenshot.png)
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Challenge1%20Screenshot.png)
 
 ## Link
 
