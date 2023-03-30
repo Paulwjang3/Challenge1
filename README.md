@@ -25,4 +25,4 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-[URL](https://paulwjang3.github.io/Challenge1/)
+[https://paulwjang3.github.io/Challenge1/](https://paulwjang3.github.io/Challenge1/)
